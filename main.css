@@ -1,0 +1,29 @@
+.true {
+    color: #70d974;
+}
+
+.false {
+    color: orangered;
+}
+
+.output-text {
+    height: 18px;
+    margin: 5px 0;
+}
+
+.task-header {
+    display: flex;
+    align-items: center;
+}
+
+.task-header-text {
+    margin: 5px 10px 5px 0;
+}
+
+.github-link {
+    height: 20px;
+}
+
+.github-link-block {
+    display: flex;
+}
